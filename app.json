@@ -1,7 +1,7 @@
 {
   "name": "GPSC HACKER",
   "description": "Download videos from various websites using this telegram bot",
-  "repository": "https://github.com/SHIVVHF/xt",
+  "repository": "https://github.com/#",
   "buildpacks": [
     {
       "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
@@ -24,7 +24,7 @@
     },
     "BOT_TOKEN": {
       "description": "Get from BotFather",
-      "value": "dbf8fdfc66d7a1a9bf359c036409aa14"
+      "value": "5115275139:AAEJwqeGo0RmycATNb-1gBxUm9sRZYFXJlQ"
     },
     "AUTH_USERS": {
       "description": "Admin/Owner/Friends ID Seperate by ','  Ex: 44578878,8878899",
