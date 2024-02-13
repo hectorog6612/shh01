@@ -86,7 +86,7 @@ class TgHandler:
         )
         return str(name)
 
-    @staticmethod
+      @staticmethod
     def short_name(name: str):
         if len(name) > 100:
             res_name = name[:70]
@@ -104,9 +104,9 @@ class TgHandler:
             return user
         except Exception as e:
             print(e)
-            user = "Group Admin"
+            user = "@GPSC_HACKER 🥷🏻"
             return user
-
+            
     @staticmethod
     def index_(index: int):
         if int(index) == 0:
