@@ -1,6 +1,7 @@
 pyrogram
 tgcrypto
 requests
+ffmpeg
 pyromod==1.5
 aiohttp
 aiofiles
